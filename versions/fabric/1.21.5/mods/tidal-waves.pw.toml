@@ -1,6 +1,6 @@
 name = "Tidal"
 filename = "tidal-0.0.2-beta.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/QsiPPta0/versions/Rh86Cb7C/tidal-0.0.2-beta.jar"
