@@ -1,5 +1,5 @@
 name = "Tidal"
-filename = "tidal-0.0.2-beta.jar"
+filename = "tidal-0.0.2-beta.jar.disabled"
 side = "client"
 
 [download]
