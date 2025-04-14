@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4792f1a3b771dfd804f590813523daa6e57bf3ff677280c088db3c24599e8a98"
+hash = "f65b1c9760cfb327c5583eda8fa543cc68da62ce2aa0c9c89f3d9cf85b7b3f58"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "31c9ef087418af49a6e3be6824a34a941f8f602482284d1c674a37617e58a27c"
+hash = "ef32434536a29994b5aa33cf6d53efa8d430aaed4192a3d07bc1f044bc4dcf67"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b4d85c87d21d79bc7e24bbab04de050cc8d7f6fc6c9ebb1fd4e7d8f885016350"
+hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "760fa5f6840b4b5a929222cae241fe7d9166caad02caa9d5f67cf033536119e0"
+hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
@@ -230,12 +230,12 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "9a0bcfc39eda2bba01e56763a6d6ed24a3ac39b65123873af31a478f87a059ff"
+hash = "471861d58fcae927ae15f5df7fb436617771648ffb909d2a88e9d6e78068ff8c"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "e81f100c3408636f8a31e529621a8fb580aeb979eb91e971baf9ffbc9ac64796"
+hash = "08e7fcbf0eb89fd14ebbbe9f041c60c5b5cd63e5554386766b6ef7476e7ed65a"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "e167c7d29db5be283277690abe0bbe3b1a5194314a456e2495ee8de7fb5376ef"
+hash = "bc5b833dac6b91f96e3d650e1209d141b9267ce7cb7ac45b8b5a976d6c6a5f4e"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
