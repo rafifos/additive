@@ -1,13 +1,13 @@
-name = "Frends"
-author = "Rafifos"
-version = "1.35.0+1.21.5.fabric"
+author      = "Rafifos"
+name        = "Frends"
 pack-format = "packwiz:1.1.0"
+version     = "1.35.0+1.21.5.fabric"
 
 [index]
-file = "index.toml"
-hash-format = "sha256"
-hash = "1ab5d429d3ef71e5fd20cb7bb44ead613fa231211d1948fe9415377e7ce66674"
+ file        = "index.toml"
+ hash        = "7885e91212ff4a72cba08f1f2eeab021c8da4adea4cfcd72fc49c0dd06188f04"
+ hash-format = "sha256"
 
 [versions]
-fabric = "0.16.13"
-minecraft = "1.21.5"
+ fabric    = "0.16.13"
+ minecraft = "1.21.5"
