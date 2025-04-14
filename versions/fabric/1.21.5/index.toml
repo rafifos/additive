@@ -37,8 +37,32 @@ file = "config/yosbr/config/immediatelyfast.json"
 hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "e3e67c2706f2acb501ca1a2b9963e192501dea60fe3a39c43ceaf038c0184de4"
+
+[[files]]
+file = "config/yosbr/config/ok_zoomer/config.toml"
+hash = "0279b233e040f0b18ea4ad3f2b40c4e4e6fb079d435a1099abe60704974d0397"
+
+[[files]]
+file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
+hash = "4fbe5b1eb7908c3f6f763984b0717fb8388dad53e23abd4200fd1fd00b32f130"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "9739d3305591aa4f1f2affa5d965bed84fe10516d429b9e55877314e625795d1"
+
+[[files]]
+file = "config/yosbr/config/world-host.json5"
+hash = "a3b622ccf55cab343a9eab643d412f8bdba953259300924d3b71c57486008607"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "48f62d72101c1f9afcd9ed760adbf8e10266e331a915c8a760d262803010797f"
+hash = "930656ea2bfd1cc7ddb0fe0e59aa1dd1d860a93027f6ea083202ce828e489be7"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
