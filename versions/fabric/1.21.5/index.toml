@@ -1,72 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "e8c9bda1727fc9a10084ac59fda9ea9c6dea015b4fadaf8bee690c48eaa5dce2"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "e0d9ce47a87536c707b797789b53e9e4f09b273f69098b1303b0815ebd82b3c5"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "20bb880eb7a4657399b86fd11f6e2ec56c87c04ad037d62c155dcca5d484aa7f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
-
-[[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
-file = "config/yosbr/config/bettergrass.json5"
-hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "dda5b7b8f667e02c239390c96f2a6f84d2224c7be2449e2a75a2a7fc5a96e636"
-
-[[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
-
-[[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "bc7cfadfe7121fdbd356c7992705ea6f484de518d3fd473eb8c59ea93e79a04d"
-
-[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
-
-[[files]]
-file = "config/yosbr/config/fastquit.toml"
-hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
-
-[[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
-
-[[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
+hash = "fc273072f132ab4beba18bdee72e80cce7f82775d91219b39bbff41f9ac5158c"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -74,31 +14,11 @@ hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
-
-[[files]]
-file = "config/yosbr/config/ryoamiclights.toml"
-hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
-
-[[files]]
-file = "config/yosbr/config/servercore/config.yml"
-hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
-
-[[files]]
-file = "config/yosbr/config/servercore/optimizations.yml"
-hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
+hash = "d379372c077503cdc006ffa941b1f07f006840e4db1061d988b8fe13ff04f340"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
-
-[[files]]
-file = "config/yosbr/config/vmp.properties"
-hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/config/world-host.json5"
@@ -106,7 +26,42 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
+hash = "7cc76b538a67cdb8334295e1546d020ba58106bf2e8a1f5c3586111df257f075"
+
+[[files]]
+file = "datapacks/continents.pw.toml"
+hash = "caa1bd586bbbfc71d395ff1bfda3e16f0cde9b2810f57171a40269c23df7f1a1"
+metafile = true
+
+[[files]]
+file = "datapacks/incendium.pw.toml"
+hash = "31b54d272161fa9d625f250e101ba454d8b8c59b25c6af8af9e66e551b400f95"
+metafile = true
+
+[[files]]
+file = "datapacks/nullscape.pw.toml"
+hash = "97ade5a002eead67a598b35ab4b53690bb53848c0e4f6e1214202dee7a35bc2a"
+metafile = true
+
+[[files]]
+file = "datapacks/spawn-animations.pw.toml"
+hash = "aa57037f2da11aafa64c8912dbe3eb875574492dc1d88a5ee72d1e45f57c2c13"
+metafile = true
+
+[[files]]
+file = "datapacks/structory-towers.pw.toml"
+hash = "341a92c442705e40e2d2f178cbda36c8572b6a28ecb11f88f46c9451af7a9cab"
+metafile = true
+
+[[files]]
+file = "datapacks/structory.pw.toml"
+hash = "0eeec2779d6559da2b4291e2742b748229ad05cc391528224b18551dfe5a33df"
+metafile = true
+
+[[files]]
+file = "datapacks/terralith.pw.toml"
+hash = "a5194cf802851815ba4b61e0daf1973776a5a9484b2538765591a0c311f554f7"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -339,6 +294,11 @@ hash = "e167c7d29db5be283277690abe0bbe3b1a5194314a456e2495ee8de7fb5376ef"
 metafile = true
 
 [[files]]
+file = "mods/world-host.pw.toml"
+hash = "d98e82a7de1fbc6cb2d32c61e036e3fc4e69e2e8800e04a3bca6bc92b9ce519e"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "76d79c4c09c4b862ce82cc0cfee5ee4f01222c1968586ba68d9435767aecfcd8"
 metafile = true
@@ -351,4 +311,49 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "4d1f80d4aea6f81427b67313796afa14e4319d6284ea512169243a74f7c74ba7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "fd18eb54847fd18feba9db1e9960c741cdaa6083c984773f8f79ae22182fad76"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "5029e1e04335fef6bbb0bcd87dc8f9908e1b6e47b3a735fb00e735e69d3fafba"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "c889cdbd8131aabcdb3f7e16bec343d877025a0862b4c033d4a95febca21d187"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pastel-shaders.pw.toml"
+hash = "0a38532b3a4dca52857e217682575449ef4560959d1431dd5cb2523698105ac9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "0c768f542dd2d7422360aa590fb6345864e9382a292550425396629f25bc110e"
 metafile = true
