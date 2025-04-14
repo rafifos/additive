@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "326f366d36fc4b440bf66eafa4b0c2345e97f7336a69be07f20bdfd8475a8ee6"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "e8c9bda1727fc9a10084ac59fda9ea9c6dea015b4fadaf8bee690c48eaa5dce2"
 
@@ -105,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "3ee7002fce909e5bdd0749bb0132e268dee94d06ff2f000e25f977871d5d7bf7"
+hash = "d7007a228eae3f5261482569fabece1dcf8ddfd451b63e75c20d1dff51ce814b"
 metafile = true
 
 [[files]]
@@ -175,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "c91e55e718f59b39e69a58e6037c6410cc11bc49e3bbb36d92d3d0a2c2b3184e"
+hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
 metafile = true
 
 [[files]]
@@ -210,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "fdf0d92905bf501bc185f7fa027e8ec91208bb8a98125edebe7d8e29f4262710"
+hash = "b84325343c5cd6c714a820b07b350414aa017e39fc3403b4962d87ef1911dfed"
 metafile = true
 
 [[files]]
@@ -295,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/sort-it-out.pw.toml"
-hash = "0cf5dd8e8a19caca726a88e9ced2253249c6567a1654d1ff24ed6280d6ea98f2"
+hash = "9bb67586f0a1ed84f2a64c30fe743ea624a0a8c8b2ce6a723044bf233190390d"
 metafile = true
 
 [[files]]
@@ -330,12 +326,12 @@ metafile = true
 
 [[files]]
 file = "mods/tidal-waves.pw.toml"
-hash = "c3eeb965a91dc6d3f00e645364faa34fd29f04f8483c78ad40fab98c578bd195"
+hash = "247dcd61472166436bef4f128fd5d8bc3b19b439165bc95e13a207943c9d3199"
 metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "5cc7529d5600786316b7854cb8eb1fddb2815ba3c9239fa5254dd2d32d4dd075"
+hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
 metafile = true
 
 [[files]]
@@ -345,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "d98e82a7de1fbc6cb2d32c61e036e3fc4e69e2e8800e04a3bca6bc92b9ce519e"
+hash = "0af1ab53ce68a6850cdd1071d3291462ea816dede99cc34e92b8a430a359b900"
 metafile = true
 
 [[files]]
