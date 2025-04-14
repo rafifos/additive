@@ -29,41 +29,6 @@ file = "config/yosbr/options.txt"
 hash = "7cc76b538a67cdb8334295e1546d020ba58106bf2e8a1f5c3586111df257f075"
 
 [[files]]
-file = "datapacks/continents.pw.toml"
-hash = "caa1bd586bbbfc71d395ff1bfda3e16f0cde9b2810f57171a40269c23df7f1a1"
-metafile = true
-
-[[files]]
-file = "datapacks/incendium.pw.toml"
-hash = "31b54d272161fa9d625f250e101ba454d8b8c59b25c6af8af9e66e551b400f95"
-metafile = true
-
-[[files]]
-file = "datapacks/nullscape.pw.toml"
-hash = "97ade5a002eead67a598b35ab4b53690bb53848c0e4f6e1214202dee7a35bc2a"
-metafile = true
-
-[[files]]
-file = "datapacks/spawn-animations.pw.toml"
-hash = "aa57037f2da11aafa64c8912dbe3eb875574492dc1d88a5ee72d1e45f57c2c13"
-metafile = true
-
-[[files]]
-file = "datapacks/structory-towers.pw.toml"
-hash = "341a92c442705e40e2d2f178cbda36c8572b6a28ecb11f88f46c9451af7a9cab"
-metafile = true
-
-[[files]]
-file = "datapacks/structory.pw.toml"
-hash = "0eeec2779d6559da2b4291e2742b748229ad05cc391528224b18551dfe5a33df"
-metafile = true
-
-[[files]]
-file = "datapacks/terralith.pw.toml"
-hash = "a5194cf802851815ba4b61e0daf1973776a5a9484b2538765591a0c311f554f7"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
@@ -106,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "45f268d205841b54991ff5a25e126f2ab314ff814f6f0ddeb26ac41ead4a7a09"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "c481fa05cdc5d7fce8dc6a6cc795ab41568cc587d2107b54db7605390d320226"
 metafile = true
 
 [[files]]
@@ -184,6 +154,11 @@ hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "0fa448809dd6a1856fe312a48870237a97832deebdea538a5b39dfe4e523bb73"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "05ba97e8318046da6b4ea4669da8f848fb4981516a8342b6e7b272eba320c587"
 metafile = true
@@ -229,6 +204,11 @@ hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "151042b74b2148361be34da6766a0496a97b5126213316f2e27e133ddc496b1d"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "471861d58fcae927ae15f5df7fb436617771648ffb909d2a88e9d6e78068ff8c"
 metafile = true
@@ -271,6 +251,26 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "6e6d211a726a79c4e9ce7a82ced3c06fd61d19a5c4a583531388962930e835fd"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "6082221877076a788596e16933cb122ad5818c6c0e7d62702087f493642e68e5"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "f9e74ca0e317cf188e097db3ce8d10ae8c2f8b5f66f8397b22c85470b038a71a"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "2979f50aa0f49e618868a8eed7b944eae7b969bbd02c8f9d85e1c287715ec569"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "8539c70c1e383a4d54a37cf9c656d0608d190dce1ed39dd03f225c2ab4440012"
 metafile = true
 
 [[files]]

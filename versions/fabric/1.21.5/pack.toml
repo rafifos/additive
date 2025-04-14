@@ -1,4 +1,4 @@
-name = "Additive"
+name = "Frends"
 author = "Rafifos"
 version = "1.35.0+1.21.5.fabric"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a5caabc8eccfefc9a05cff5d94f5af9c060d5a16f8f944e69bf809cc0fd7287e"
+hash = "6e5796f3ba040a9d1c237660457d3ddfa9a1fc98ce0dd8fb1b556b8f5e4f5e56"
 
 [versions]
 fabric = "0.16.10"
