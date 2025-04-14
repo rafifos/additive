@@ -1,4 +1,8 @@
 {
-	showOnlineStatus: false,
 	enableFriends: false,
+	enableReconnectionToasts: true,
+	UPnP: true,
+	allowFriendRequests: false,
+	announceFriendsOnline: false,
+	requiredSecurityLevel: "insecure"
 }

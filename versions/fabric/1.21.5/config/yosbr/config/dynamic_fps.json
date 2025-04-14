@@ -1,14 +1,15 @@
 {
-  "states": {
-    "unfocused": {
-      "frame_rate_target": 2,
-      "run_garbage_collector": true
-    },
-    "invisible": {
-      "volume_multipliers": {
-        "master": 0.25
-      },
-      "run_garbage_collector": true
-    }
-  }
+	"battery_tracker": {
+		"enabled": true,
+		"critical_level": 15,
+		"switch_states": true
+	},
+	"states": {
+		"unfocused": {
+			"graphics_state": "reduced"
+		},
+		"unplugged": {
+			"frame_rate_target": 60
+		}
+	}
 }
