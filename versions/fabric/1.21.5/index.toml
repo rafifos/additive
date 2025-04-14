@@ -109,8 +109,18 @@ file = "config/yosbr/options.txt"
 hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
 metafile = true
 
 [[files]]
@@ -129,13 +139,28 @@ hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "3ee7002fce909e5bdd0749bb0132e268dee94d06ff2f000e25f977871d5d7bf7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "45f268d205841b54991ff5a25e126f2ab314ff814f6f0ddeb26ac41ead4a7a09"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "31c9ef087418af49a6e3be6824a34a941f8f602482284d1c674a37617e58a27c"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d0652639d4b9913a066768cbab92dd09330df5c6558a53a043baf7c541ca4a94"
 metafile = true
 
 [[files]]
@@ -179,6 +204,11 @@ hash = "fc96e5541850046b40f7b0214a387a9a4ac1384ec727f2f4a37a048d97341626"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "c91e55e718f59b39e69a58e6037c6410cc11bc49e3bbb36d92d3d0a2c2b3184e"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
@@ -196,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "05ba97e8318046da6b4ea4669da8f848fb4981516a8342b6e7b272eba320c587"
 metafile = true
 
 [[files]]
@@ -264,6 +299,11 @@ hash = "e81f100c3408636f8a31e529621a8fb580aeb979eb91e971baf9ffbc9ac64796"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f57e369906e6b2686fcd6e6da61c326ac99fbcf35427facf18d815afcb6dee2d"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
@@ -274,8 +314,23 @@ hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "6e6d211a726a79c4e9ce7a82ced3c06fd61d19a5c4a583531388962930e835fd"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
+file = "mods/tidal-waves.pw.toml"
+hash = "c3eeb965a91dc6d3f00e645364faa34fd29f04f8483c78ad40fab98c578bd195"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "5cc7529d5600786316b7854cb8eb1fddb2815ba3c9239fa5254dd2d32d4dd075"
 metafile = true
 
 [[files]]
