@@ -1,6 +1,6 @@
 name = "Sort It Out!"
 filename = "sort_it_out-fabric-1.1.1%2B1.21.5.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jcOSOvm1/versions/wMsIEw88/sort_it_out-fabric-1.1.1%2B1.21.5.jar"
