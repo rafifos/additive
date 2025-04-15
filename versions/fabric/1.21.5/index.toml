@@ -241,6 +241,11 @@ hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
