@@ -1,0 +1,13 @@
+name = "Fresh Animations - Extensions (Spider Edit)"
+filename = "FA+Spiders-v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/QlsnnYa1/FA%2BSpiders-v1.1.zip"
+hash-format = "sha512"
+hash = "94a18e5e600d66a98d0a9a8eee10707df1a5f06ef777ff779e7b5c677fd1c1798c5cffccf273e1de52afc950270d103c44bc45e6e053953909a0e260f8e8a7b9"
+
+[update]
+[update.modrinth]
+mod-id = "YAVTU8mK"
+version = "QlsnnYa1"
