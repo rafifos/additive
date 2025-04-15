@@ -256,6 +256,11 @@ hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "151042b74b2148361be34da6766a0496a97b5126213316f2e27e133ddc496b1d"
 metafile = true
