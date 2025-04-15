@@ -61,6 +61,11 @@ file = "config/yosbr/options.txt"
 hash = "58e8838b14242bc0aa3d6a7758ea22a03cd058e09c811c1869c5bd847bb7a2d7"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
