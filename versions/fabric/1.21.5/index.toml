@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "e8c9bda1727fc9a10084ac59fda9ea9c6dea015b4fadaf8bee690c48eaa5dce2"
-
-[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "825720d503f33835e02adf7c1cbe2da6c629e3d7d21ef8d013d868e08c61b2c6"
 
