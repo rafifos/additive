@@ -291,6 +291,11 @@ hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "13c3726cb4534f0a924b1d77a6ae0ab4939d0b2cf9e38eeda5829d5e65e96b0f"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "f599da7c46d2acdca321efcf35d78c53d69a73168e86344971b857bc2c754932"
 metafile = true
