@@ -366,9 +366,8 @@ hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
-file = "mods/tidal-waves.pw.toml"
-hash = "247dcd61472166436bef4f128fd5d8bc3b19b439165bc95e13a207943c9d3199"
-metafile = true
+file = "mods/tidal-0.0.2-beta.jar"
+hash = "0aaed990b518654f63e7f4487bf66b22edf50912f2f51b4f0a6df27888407a0b"
 
 [[files]]
 file = "mods/visuality.pw.toml"
