@@ -62,7 +62,7 @@ hash = "a3b622ccf55cab343a9eab643d412f8bdba953259300924d3b71c57486008607"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "930656ea2bfd1cc7ddb0fe0e59aa1dd1d860a93027f6ea083202ce828e489be7"
+hash = "6051087ec0e9b6c5a9faf894b04c78840e1075b4ecaa1cd9d19f55e19dd45bab"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -357,6 +357,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/music-and-melody.pw.toml"
+hash = "77982e43b29cd7b448a54b645186648d5e4628eba66389e8b597bd83439e15b3"
 metafile = true
 
 [[files]]
